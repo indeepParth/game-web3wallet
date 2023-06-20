@@ -2,7 +2,7 @@
   "name": "game-web3wallet",
   "version": "0.1.0",
   "private": true,
-  "main": "index.js",
+  "main": "index.html",
   "homepage": "https://indeepparth.github.io/game-web3wallet/",
   "scripts": {
     "start": "parcel index.html --open",
