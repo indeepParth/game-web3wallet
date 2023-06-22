@@ -11,7 +11,8 @@
   "dependencies": {
     "ethers": "5.5.1",
     "parcel": "2.x",
-    "regenerator-runtime": "^0.13.11"
+    "regenerator-runtime": "^0.13.11",
+    "web3": "^4.0.1"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
